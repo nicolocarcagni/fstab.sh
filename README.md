@@ -5,7 +5,7 @@ Questo script ti permette di selezionare un disco collegato al Raspberry Pi, sce
 ## Requisiti
 
 - Raspberry Pi OS (o una distribuzione Linux compatibile).
-- Privilegi di amministratore (superutente).
+- Privilegi di amministratore (sudo).
 - Un disco o una partizione collegata al Raspberry Pi.
 
 ## Installazione
